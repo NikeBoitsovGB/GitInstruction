@@ -22,6 +22,7 @@ git config --global user.email ваша "почта@example.com"
 
 ## 5. Основные команды git
 ### 5.1 Команда git status
+Команда `git status` служит для получения информации о текущем состоянии git.
 ### 5.2 Команда git add
 ### 5.3 Команда git commit
 ### 5.4 Команда git log
